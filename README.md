@@ -54,6 +54,8 @@ Die Idee für das folgende Projekt liegt in dem Gedanken, ein Kickerspiel fairer
 ## 📚 **Abi‑Arbeit**
 **[📥 Download PDF](abi_hausarbeit.pdf)**
 
+> ⚠️ **Rechtshinweis**: Rechteinhaber ist mitheld. Schulische Arbeit – eigene Leistung, alle Rechte vorbehalten.
+
 ## 🛡️ **Cybersecurity Lessons**
 - 🔌 GPIO/IoT‑Security.  
 - 📡 Sensor‑Detection.
