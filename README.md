@@ -32,7 +32,7 @@ Die Idee für das folgende Projekt liegt in dem Gedanken, ein Kickerspiel fairer
 2. Thonny: Code kopieren.  
 3. GPIO verkabeln.
 
-> 📌 Hinweis: Eine ausführliche Schritt‑für‑Schritt‑Installation inkl. Pins/Verkabelung kommt (siehe unten „Schaltplan & Verkabelung“).
+> 📌 Hinweis: Für eine ausführliche Schritt‑für‑Schritt‑Installation inkl. Pins/Verkabelung (siehe unten „Schaltplan & Verkabelung“).
 
 ## 🔌 **Schaltplan & Verkabelung**
 - 🧩 Schaltplan/Fotos der Verkabelung: **[schaltplan.png](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/documentation/Kompletter%20Schaltplan%20Tischkicker.png)** 
