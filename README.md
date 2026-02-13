@@ -75,7 +75,7 @@ Die Rechte verbleiben vollständig beim Urheber.
 ## 📞 **Kontakt & Erreichbarkeit**
 
 **Student** | Niedersachsen  
-📧 **[ProtonMail](mailto:github@[deine-proton-domain].me)**  
+📧 **[ProtonMail](mailto:lab.corelab01@proton.me)**  
 🔗 **GitHub**: Dieses Profil  
 🌐 **Portfolio**: [cyber-portfolio Repo](https://github.com/[username]/cyber-portfolio) **(folgt)** 
 
