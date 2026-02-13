@@ -34,25 +34,23 @@ Die Idee für das folgende Projekt liegt in dem Gedanken, ein Kickerspiel fairer
 
 > 📌 Hinweis: Eine ausführliche Schritt‑für‑Schritt‑Installation inkl. Pins/Verkabelung kommt (siehe unten „Schaltplan & Verkabelung“).
 
-## 🔌 **Schaltplan & Verkabelung (kommt / wird verlinkt)**
-- 🧩 Schaltplan/Fotos der Verkabelung: **[hardware/schaltplan.jpg](hardware/schaltplan.jpg)** (wird hochgeladen)
-- 🧵 Pin‑Mapping (Haupt‑Pico ↔ Toranzeigen ↔ Sensor): **[docs/pinout.md](docs/pinout.md)** (wird hochgeladen)
+## 🔌 **Schaltplan & Verkabelung**
+- 🧩 Schaltplan/Fotos der Verkabelung: **[schaltplan.png](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/documentation/Kompletter%20Schaltplan%20Tischkicker.png)** 
+- 🧵 Pin‑Mapping (Toranzeigen ↔ Haupt‑Pico ↔ Sensor): **[PIN-Belegung.md](docs/pinout.md](https://github.com/mitheld/tischkicker--pico-automatisation/blob/3e12147f7516c3b7b3d17dfac8ad4ba78d0314ae/documentation/PIN-Belegung.md))**
 
-## 🧾 **Platinen (kommt / wird verlinkt)**
-- 🖨️ Platinenmuster/Layouts (druck/laser): **[hardware/pcb/](hardware/pcb/)** (Ordner wird hochgeladen)
-  - z.B. Gerber/PNG/PDF je nachdem, was du hast
-
-## 📱 **App & PAPs (kommt / wird verlinkt)**
-- 📐 PAPs / Ablaufpläne: **[docs/paps/](docs/paps/)** (wird hochgeladen)
-- 🎨 App‑Design Bilder/Wireframes: **[app_design/](app_design/)** (wird hochgeladen)
+## 📱 **App & PAPs**
+- 📐 PAPs / Ablaufpläne:
+  - PAP **Torerkennung** **[hier](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/documentation/Torerkennung%20PAP.pdf)**
+  - PAP **Toranzeige** **[hier](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/documentation/PAP%20Toranzeige.pdf)**   
+- 🎨 App‑Design Bilder: **[app/](https://github.com/mitheld/tischkicker--pico-automatisation/tree/84c3946407740578b0dcfe2722f7da696ce30cbe/app)** 
 
 ## 💻 **Code**
 - `main_torerkennung.py` (Torerkennung via Lichtschranken).
-  **([📥 Download Code**
+  **([📥 Download Code](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/codes/main(Torerkennung).py))**
 - `main_toranzeige.py` (Toranzeige via der RGB Matrix).
-  **([📥 Download Code]**
+  **([📥 Download Code](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/codes/main(Toranzeige).py))**
 - `font_toranzeige.py` (Schriftart für die RGB Matrix).
-  **([📥 Download Code]**
+  **([📥 Download Code](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/codes/font(Toranzeige).py))**
 
 ## 📚 **Abi‑Arbeit**
 **([📥 Download PDF](https://github.com/mitheld/tischkicker--pico-automatisation/blob/4ee2dc82677f77494fc8380a0d66b5e9431f0e39/Automatisierung%20eines%20Tischkickers%20Abi.pdf))**
