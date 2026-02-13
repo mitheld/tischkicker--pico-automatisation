@@ -1,6 +1,6 @@
 # **🔒 Urheberrechtshinweis**
 
-© 2026 mitheld. Alle Rechte vorbehalten.
+**© 2026 mitheld. Alle Rechte vorbehalten.**
 
 Alle in diesem Repository veröffentlichten Dateien und Inhalte sind urheberrechtlich geschützt. 
 Sie dürfen ausschließlich zu privaten Zwecken gelesen bzw. angesehen werden.
@@ -11,16 +11,16 @@ Die Rechte verbleiben vollständig beim Urheber.
 
 ## 📞 **Kontakt & Erreichbarkeit**
 
-**Blue Team Student** | PA Niedersachsen  
+**Student** | Niedersachsen  
 📧 **[ProtonMail](mailto:github@[deine-proton-domain].me)**  
 🔗 **GitHub**: Dieses Profil  
-🌐 **Portfolio**: [cyber-portfolio Repo](https://github.com/[username]/cyber-portfolio)  
+🌐 **Portfolio**: [cyber-portfolio Repo](https://github.com/[username]/cyber-portfolio) **(folgt)** 
 
 **Nachricht erwünscht**: Fragen zu Projekt, Code‑Review, Cybersecurity‑Collab.
 
 # **🔒 Copyright Notice**
 
-© 2026 mitheld. All rights reserved.
+**© 2026 mitheld. All rights reserved.**
 
 All files and content published in this repository are protected by copyright. 
 They may be viewed and read for private purposes only.
@@ -32,9 +32,9 @@ All rights remain with the author.
 
 ## 📞 **Contact & Availability**
 
-**Blue Team Student** | PA Lower Saxony  
+**Student** | Lower Saxony  
 📧 **[ProtonMail](mailto:github@[your-proton-domain].me)**  
 🔗 **GitHub**: This profile  
-🌐 **Portfolio**: [cyber-portfolio repo](https://github.com/[username]/cyber-portfolio)  
+🌐 **Portfolio**: [cyber-portfolio repo](https://github.com/[username]/cyber-portfolio) **(folgt)**   
 
 **Messages welcome**: Questions about projects, code reviews, cybersecurity collaboration.
