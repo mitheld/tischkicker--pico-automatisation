@@ -5,14 +5,13 @@
 ---
 
 ## 🎥 **main_torerkennung.py**
-- **Funktion**: Echtzeit‑Videoanalyse mit **OpenCV**.  
-- **Ablauf**: Kamera liest Frame → **HSV‑Filter** → Konturen prüft Tore (**grün/rot**).  
-- **Ausgabe**: Tor‑Event triggert LED‑Update.
+- **Funktion**: Lichtschrankenmessung.  
+- **Ablauf**: Lichtschranke überprüft ob es eine Lichtänderung gab -> Tor erkannt
+- **Ausgabe**: Tor‑Event triggert eine PIN-Ausgabe für die Toranzeige.
 
 ## 💡 **main_toranzeige.py**
-- **Funktion**: Steuert **WS2812B RGB‑Matrix**.  
-- **Ablauf**: Tor‑Signal empfängt → Score zählt → LEDs färbt (**grün/rot**).  
-- **Hardware**: Pi **GPIO Pin 18**.
+- **Funktion**: Steuert **Pimoroni  RGB‑Matrix**.  
+- **Ablauf**: Empfängt Tor‑Signal via PIN → Score zählt → LEDs Matrix setzt Score vom jeweiligen Spieler hoch.  
 
 ## 🔢 **font_toranzeige.py**
 - **Funktion**: Rendert Zahlen **0‑9** als LED‑Pattern.  
