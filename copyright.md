@@ -12,7 +12,7 @@ Die Rechte verbleiben vollständig beim Urheber.
 ## 📞 **Kontakt & Erreichbarkeit**
 
 **Student** | Niedersachsen  
-📧 **[ProtonMail](mailto:github@[deine-proton-domain].me)**  
+📧 **[ProtonMail](mailto:lab.corelab01@proton.me)**  
 🔗 **GitHub**: Dieses Profil  
 🌐 **Portfolio**: [cyber-portfolio Repo](https://github.com/[username]/cyber-portfolio) **(folgt)** 
 
@@ -33,7 +33,7 @@ All rights remain with the author.
 ## 📞 **Contact & Availability**
 
 **Student** | Lower Saxony  
-📧 **[ProtonMail](mailto:github@[your-proton-domain].me)**  
+📧 **[ProtonMail](mailto:lab.corelab01@proton.me)**  
 🔗 **GitHub**: This profile  
 🌐 **Portfolio**: [cyber-portfolio repo](https://github.com/[username]/cyber-portfolio) **(folgt)**   
 
