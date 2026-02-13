@@ -48,11 +48,14 @@ Die Idee für das folgende Projekt liegt in dem Gedanken, ein Kickerspiel fairer
 
 ## 💻 **Code**
 - `main_torerkennung.py` (Torerkennung via Lichtschranken).
-- `main_toranzeige.py` (Toranzeige via der RGB Matrix).  
+  **([📥 Download Code**
+- `main_toranzeige.py` (Toranzeige via der RGB Matrix).
+  **([📥 Download Code]**
 - `font_toranzeige.py` (Schriftart für die RGB Matrix).
+  **([📥 Download Code]**
 
 ## 📚 **Abi‑Arbeit**
-**[📥 Download PDF](abi_hausarbeit.pdf)**
+**([📥 Download PDF](https://github.com/mitheld/tischkicker--pico-automatisation/blob/4ee2dc82677f77494fc8380a0d66b5e9431f0e39/Automatisierung%20eines%20Tischkickers%20Abi.pdf))**
 
 > ⚠️ **Rechtshinweis**: Rechteinhaber ist mitheld. Schulische Arbeit – eigene Leistung, alle Rechte vorbehalten.
 
