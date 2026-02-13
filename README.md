@@ -62,3 +62,24 @@ Die Idee für das folgende Projekt liegt in dem Gedanken, ein Kickerspiel fairer
 ## 🛡️ **Cybersecurity Lessons**
 - 🔌 GPIO/IoT‑Security.  
 - 📡 Sensor‑Detection.
+
+# **🔒 Urheberrechtshinweis**
+
+**© 2026 mitheld. Alle Rechte vorbehalten.**
+
+Alle in diesem Repository veröffentlichten Dateien und Inhalte sind urheberrechtlich geschützt. 
+Sie dürfen ausschließlich zu privaten Zwecken gelesen bzw. angesehen werden.
+
+Jegliche Vervielfältigung, Verbreitung, Veröffentlichung, Bearbeitung, Übersetzung oder sonstige Nutzung – ganz oder teilweise – ist ohne ausdrückliche schriftliche Genehmigung des Urhebers untersagt.
+
+Die Rechte verbleiben vollständig beim Urheber.
+
+## 📞 **Kontakt & Erreichbarkeit**
+
+**Student** | Niedersachsen  
+📧 **[ProtonMail](mailto:github@[deine-proton-domain].me)**  
+🔗 **GitHub**: Dieses Profil  
+🌐 **Portfolio**: [cyber-portfolio Repo](https://github.com/[username]/cyber-portfolio) **(folgt)** 
+
+**Nachricht erwünscht**: Fragen zu Projekt, Code‑Review, Cybersecurity‑Collab.
+
