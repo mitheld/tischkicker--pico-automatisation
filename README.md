@@ -30,7 +30,21 @@ Die Idee für das folgende Projekt liegt in dem Gedanken, ein Kickerspiel fairer
 ## 🚀 **Installation**
 1. Pico flashen: [micropython.org](https://micropython.org) (uf2‑File).  
 2. Thonny: Code kopieren.  
-3. GPIO verkabeln.  
+3. GPIO verkabeln.
+
+> 📌 Hinweis: Eine ausführliche Schritt‑für‑Schritt‑Installation inkl. Pins/Verkabelung kommt (siehe unten „Schaltplan & Verkabelung“).
+
+## 🔌 **Schaltplan & Verkabelung (kommt / wird verlinkt)**
+- 🧩 Schaltplan/Fotos der Verkabelung: **[hardware/schaltplan.jpg](hardware/schaltplan.jpg)** (wird hochgeladen)
+- 🧵 Pin‑Mapping (Haupt‑Pico ↔ Toranzeigen ↔ Sensor): **[docs/pinout.md](docs/pinout.md)** (wird hochgeladen)
+
+## 🧾 **Platinen (kommt / wird verlinkt)**
+- 🖨️ Platinenmuster/Layouts (druck/laser): **[hardware/pcb/](hardware/pcb/)** (Ordner wird hochgeladen)
+  - z.B. Gerber/PNG/PDF je nachdem, was du hast
+
+## 📱 **App & PAPs (kommt / wird verlinkt)**
+- 📐 PAPs / Ablaufpläne: **[docs/paps/](docs/paps/)** (wird hochgeladen)
+- 🎨 App‑Design Bilder/Wireframes: **[app_design/](app_design/)** (wird hochgeladen)
 
 ## 💻 **Code**
 - `main_torerkennung.py` (Torerkennung via Lichtschranken).
