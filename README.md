@@ -40,8 +40,8 @@ Die Idee für das folgende Projekt liegt in dem Gedanken, ein Kickerspiel fairer
 
 ## 📱 **App & PAPs**
 - 📐 PAPs / Ablaufpläne:
-  - PAP **Torerkennung** **[hier](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/documentation/Torerkennung%20PAP.pdf)**
-  - PAP **Toranzeige** **[hier](https://github.com/mitheld/tischkicker--pico-automatisation/blob/cc84b4d476a509ef9cdfa26a50c255c8c1e5b9b7/documentation/PAP%20Toranzeige.pdf)**   
+  - PAP **Torerkennung** **[hier](https://github.com/mitheld/tischkicker--pico-automatisation/blob/70eaa84efd8e2138267ecef073b1854030212d78/documentation/Torerkennung%20PAP.pdf)**
+  - PAP **Toranzeige** **[hier](https://github.com/mitheld/tischkicker--pico-automatisation/blob/70eaa84efd8e2138267ecef073b1854030212d78/documentation/PAP%20Toranzeige.pdf)**   
 - 🎨 App‑Design Bilder: **[app/](https://github.com/mitheld/tischkicker--pico-automatisation/tree/84c3946407740578b0dcfe2722f7da696ce30cbe/app)** 
 
 ## 💻 **Code**
